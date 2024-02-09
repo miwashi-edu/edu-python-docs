@@ -1,6 +1,13 @@
 # edu-python-docs
 
-## prepare
+## Usage
+
+```bash
+./scan -p 1-10000 | ./probe | report
+```
+
+
+## Prepare
 
 ```bash
 cd ~
