@@ -3,7 +3,7 @@
 ## Usage
 
 ```bash
-./scan -p 1-10000 | ./probe | report
+./scan -p 1-10000 | ./probe | ./report
 ```
 
 
